@@ -1,4 +1,5 @@
-# ilias.repository
+#Example of README.md
+
 ##παραδείγματα markdown
 ###*παράδειγμα κειμένου σε italics*
 **παράδειγμα κειμένου σε bold**
@@ -6,3 +7,4 @@
 ###* πρώτο bullet
 ###* δεύτερο bullet 
 ###* τρίτο bullet
+##** created by Elias.Patsiaouras**
