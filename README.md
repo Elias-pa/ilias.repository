@@ -1,4 +1,4 @@
-#Example of README.md
+#**Example of README.md**
 
 ##παραδείγματα markdown
 ###*παράδειγμα κειμένου σε italics*
